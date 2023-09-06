@@ -1,0 +1,30 @@
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+}
+
+.container {
+	background-color: bisque;
+	text-align: center;
+	padding: 50px;
+	border-radius: 10px;
+}
+
+.timer {
+	color: palevioletred;
+	font-size: 70px;
+	margin-bottom: 20px;
+}
+
+button {
+	padding: 20px 50px;
+	margin: 10px;
+	color: white;
+	background-color: palevioletred;
+	border: none;
+	border-radius: 10px;
+	font-size: 20px;
+	cursor: pointer;
+}
